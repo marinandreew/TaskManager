@@ -70,7 +70,7 @@ namespace login_and_Register_System
         {
             new frmLogin().Show();
             this.Hide();
-        }
+        }    //Nasko
     }
 }
         

@@ -15,6 +15,7 @@ namespace login_and_Register_System
     {
         public frmRegister()
         {
+            //renettta
             InitializeComponent();
         }
 

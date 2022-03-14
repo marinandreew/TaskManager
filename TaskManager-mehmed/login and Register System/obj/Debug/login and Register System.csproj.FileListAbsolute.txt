@@ -1,0 +1,14 @@
+C:\Users\PC04-204\Desktop\TaskManager-mehmed\login and Register System\bin\Debug\login and Register System.exe.config
+C:\Users\PC04-204\Desktop\TaskManager-mehmed\login and Register System\bin\Debug\login and Register System.exe
+C:\Users\PC04-204\Desktop\TaskManager-mehmed\login and Register System\bin\Debug\login and Register System.pdb
+C:\Users\PC04-204\Desktop\TaskManager-mehmed\login and Register System\obj\Debug\login and Register System.csprojAssemblyReference.cache
+C:\Users\PC04-204\Desktop\TaskManager-mehmed\login and Register System\obj\Debug\login_and_Register_System.EmailVerification.resources
+C:\Users\PC04-204\Desktop\TaskManager-mehmed\login and Register System\obj\Debug\login_and_Register_System.frmRegister.resources
+C:\Users\PC04-204\Desktop\TaskManager-mehmed\login and Register System\obj\Debug\login_and_Register_System.frmLogin.resources
+C:\Users\PC04-204\Desktop\TaskManager-mehmed\login and Register System\obj\Debug\login_and_Register_System.Properties.Resources.resources
+C:\Users\PC04-204\Desktop\TaskManager-mehmed\login and Register System\obj\Debug\login and Register System.csproj.GenerateResource.cache
+C:\Users\PC04-204\Desktop\TaskManager-mehmed\login and Register System\obj\Debug\login and Register System.csproj.CoreCompileInputs.cache
+C:\Users\PC04-204\Desktop\TaskManager-mehmed\login and Register System\obj\Debug\login and Register System.exe
+C:\Users\PC04-204\Desktop\TaskManager-mehmed\login and Register System\obj\Debug\login and Register System.pdb
+C:\Users\PC04-204\Desktop\TaskManager-mehmed\login and Register System\bin\Debug\TaskManager.mdf
+C:\Users\PC04-204\Desktop\TaskManager-mehmed\login and Register System\bin\Debug\TaskManager_log.ldf
